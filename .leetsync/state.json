@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790182329998,
+  "updatedAt": 1790182630127,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1790182329532
+      "lastSeen": 1790182629448
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1790182329532
+      "at": 1790182629448
+    },
+    "19": {
+      "attempts": 1,
+      "bestMemory": "43.8 MB (Beats 7%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-23",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-23",
+      "folderName": "0019-Remove-Nth-Node-From-End-of-List",
+      "language": "Java",
+      "number": 19,
+      "slug": "remove-nth-node-from-end-of-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Remove Nth Node From End of List",
+      "at": 1790182629448
     }
   },
   "achievements": {
@@ -37,7 +56,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 1
+    "pushes": 2
   },
   "identity": {
     "installId": "17b573a3-be24-406a-92a0-ad4ea89a18d9",
