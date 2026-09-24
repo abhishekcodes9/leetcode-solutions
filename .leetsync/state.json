@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790240804515,
+  "updatedAt": 1790240934038,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1790240798403
+      "lastSeen": 1790240933514
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1790240798403
+      "at": 1790240933514
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,27 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1790240798403
+      "at": 1790240933514
+    },
+    "20": {
+      "attempts": 1,
+      "bestMemory": "43.2 MB (Beats 57%)",
+      "bestRuntime": "2 ms (Beats 98%)",
+      "date": "2026-09-24",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-24",
+      "folderName": "0020-Valid-Parentheses",
+      "language": "Java",
+      "number": 20,
+      "slug": "valid-parentheses",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "title": "Valid Parentheses",
+      "at": 1790240933514
     }
   },
   "achievements": {
@@ -52,11 +72,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-23"
+    "2026-09-23",
+    "2026-09-24"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 2
+    "longestStreak": 2,
+    "pushes": 3
   },
   "identity": {
     "installId": "17b573a3-be24-406a-92a0-ad4ea89a18d9",
