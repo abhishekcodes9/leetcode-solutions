@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790447559462,
+  "updatedAt": 1790447656002,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1790447557364
+      "lastSeen": 1790447655587
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1790447557364
+      "at": 1790447655587
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1790447557364
+      "at": 1790447655587
     },
     "20": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1790447557364
+      "at": 1790447655587
     },
     "21": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1790447557364
+      "at": 1790447655587
     },
     "22": {
       "attempts": 1,
@@ -104,12 +104,13 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1790447557364
+      "at": 1790447655587
     }
   },
   "achievements": {
     "early_bird": 1790295546898,
     "first_blood": 1790179805868,
+    "night_owl": 1790447560565,
     "on_fire": 1790295732384
   },
   "sheets": {},
