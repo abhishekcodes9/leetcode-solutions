@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790397019120,
+  "updatedAt": 1790397158184,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1790397018681
+      "lastSeen": 1790397157398
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1790397018681
+      "at": 1790397157398
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1790397018681
+      "at": 1790397157398
     },
     "20": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1790397018681
+      "at": 1790397157398
     },
     "21": {
       "attempts": 1,
@@ -83,7 +83,28 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1790397018681
+      "at": 1790397157398
+    },
+    "22": {
+      "attempts": 1,
+      "bestMemory": "45 MB (Beats 21%)",
+      "bestRuntime": "2 ms (Beats 69%)",
+      "date": "2026-09-26",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-26",
+      "folderName": "0022-Generate-Parentheses",
+      "language": "Java",
+      "number": 22,
+      "slug": "generate-parentheses",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bracket Sequences"
+      ],
+      "title": "Generate Parentheses",
+      "at": 1790397157398
     }
   },
   "achievements": {
@@ -95,11 +116,12 @@
   "days": [
     "2026-09-23",
     "2026-09-24",
-    "2026-09-25"
+    "2026-09-25",
+    "2026-09-26"
   ],
   "bests": {
-    "longestStreak": 3,
-    "pushes": 4
+    "longestStreak": 4,
+    "pushes": 5
   },
   "identity": {
     "installId": "17b573a3-be24-406a-92a0-ad4ea89a18d9",
