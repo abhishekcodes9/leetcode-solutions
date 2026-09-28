@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-10%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-2%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-11%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-2%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-7%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -36,6 +36,7 @@
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `Java` | 2026-09-26 |
 | 23 | [Merge k Sorted Lists](problems/0023-Merge-k-Sorted-Lists) | 🟥 Hard | `Java` | 2026-09-26 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `Java` | 2026-09-26 |
+| 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `Java` | 2026-09-28 |
 | 50 | [Pow(x, n)](problems/0050-Powx-n) | 🟧 Medium | `Java` | 2026-09-26 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `Java` | 2026-09-27 |
 | 79 | [Word Search](problems/0079-Word-Search) | 🟧 Medium | `Java` | 2026-09-27 |
