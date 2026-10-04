@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791129455388,
+  "updatedAt": 1791129766759,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1791129454950
+      "lastSeen": 1791129766163
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "20": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "21": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "22": {
       "attempts": 1,
@@ -104,7 +104,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "23": {
       "attempts": 1,
@@ -126,7 +126,7 @@
         "Tournament Sort"
       ],
       "title": "Merge k Sorted Lists",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "29": {
       "attempts": 1,
@@ -145,7 +145,7 @@
         "Bit Manipulation"
       ],
       "title": "Divide Two Integers",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "32": {
       "attempts": 1,
@@ -166,7 +166,7 @@
         "Bracket Sequences"
       ],
       "title": "Longest Valid Parentheses",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "46": {
       "attempts": 1,
@@ -185,7 +185,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "50": {
       "attempts": 1,
@@ -204,7 +204,7 @@
         "Recursion"
       ],
       "title": "Pow(x, n)",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "61": {
       "attempts": 1,
@@ -223,7 +223,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "71": {
       "attempts": 1,
@@ -242,7 +242,7 @@
         "Stack"
       ],
       "title": "Simplify Path",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "79": {
       "attempts": 1,
@@ -264,7 +264,7 @@
         "Matrix"
       ],
       "title": "Word Search",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "89": {
       "attempts": 1,
@@ -284,7 +284,7 @@
         "Bit Manipulation"
       ],
       "title": "Gray Code",
-      "at": 1791129454950
+      "at": 1791129766163
     },
     "127": {
       "attempts": 1,
@@ -305,7 +305,27 @@
         "Bidirectional Search"
       ],
       "title": "Word Ladder",
-      "at": 1791129454950
+      "at": 1791129766163
+    },
+    "189": {
+      "attempts": 1,
+      "bestMemory": "268.5 MB (Beats 69%)",
+      "bestRuntime": "5 ms (Beats 39%)",
+      "date": "2026-10-04",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-04",
+      "folderName": "0189-Rotate-Array",
+      "language": "Java",
+      "number": 189,
+      "slug": "rotate-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "title": "Rotate Array",
+      "at": 1791129766163
     }
   },
   "achievements": {
@@ -328,11 +348,12 @@
     "2026-09-29",
     "2026-09-30",
     "2026-10-02",
-    "2026-10-03"
+    "2026-10-03",
+    "2026-10-04"
   ],
   "bests": {
     "longestStreak": 8,
-    "pushes": 15
+    "pushes": 16
   },
   "identity": {
     "installId": "17b573a3-be24-406a-92a0-ad4ea89a18d9",
