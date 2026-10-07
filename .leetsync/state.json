@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791385311181,
+  "updatedAt": 1791385367582,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1791385310513
+      "lastSeen": 1791385366212
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "20": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "21": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "22": {
       "attempts": 1,
@@ -104,7 +104,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "23": {
       "attempts": 1,
@@ -126,7 +126,7 @@
         "Tournament Sort"
       ],
       "title": "Merge k Sorted Lists",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "29": {
       "attempts": 1,
@@ -145,7 +145,7 @@
         "Bit Manipulation"
       ],
       "title": "Divide Two Integers",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "32": {
       "attempts": 1,
@@ -166,7 +166,26 @@
         "Bracket Sequences"
       ],
       "title": "Longest Valid Parentheses",
-      "at": 1791385310513
+      "at": 1791385366212
+    },
+    "34": {
+      "attempts": 1,
+      "bestMemory": "48.2 MB (Beats 51%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-07",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array",
+      "language": "Java",
+      "number": 34,
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "at": 1791385366212
     },
     "46": {
       "attempts": 1,
@@ -185,7 +204,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "50": {
       "attempts": 1,
@@ -204,7 +223,7 @@
         "Recursion"
       ],
       "title": "Pow(x, n)",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "61": {
       "attempts": 1,
@@ -223,7 +242,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "71": {
       "attempts": 1,
@@ -242,7 +261,7 @@
         "Stack"
       ],
       "title": "Simplify Path",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "79": {
       "attempts": 1,
@@ -264,7 +283,7 @@
         "Matrix"
       ],
       "title": "Word Search",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "89": {
       "attempts": 1,
@@ -284,7 +303,7 @@
         "Bit Manipulation"
       ],
       "title": "Gray Code",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "127": {
       "attempts": 1,
@@ -305,7 +324,7 @@
         "Bidirectional Search"
       ],
       "title": "Word Ladder",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "164": {
       "attempts": 1,
@@ -327,7 +346,7 @@
         "Pigeonhole Principle"
       ],
       "title": "Maximum Gap",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "189": {
       "attempts": 1,
@@ -347,7 +366,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791385310513
+      "at": 1791385366212
     },
     "217": {
       "attempts": 1,
@@ -367,7 +386,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1791385310513
+      "at": 1791385366212
     }
   },
   "achievements": {
@@ -393,11 +412,12 @@
     "2026-10-03",
     "2026-10-04",
     "2026-10-05",
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "bests": {
     "longestStreak": 8,
-    "pushes": 18
+    "pushes": 19
   },
   "identity": {
     "installId": "17b573a3-be24-406a-92a0-ad4ea89a18d9",
