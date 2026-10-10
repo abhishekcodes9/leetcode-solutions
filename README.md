@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-21%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-13%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-22%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-4%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-14%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -38,6 +38,7 @@
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `Java` | 2026-09-26 |
 | 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `Java` | 2026-09-28 |
 | 34 | [Find First and Last Position of Element in Sorted Array](problems/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | 🟧 Medium | `Java` | 2026-10-07 |
+| 43 | [Multiply Strings](problems/0043-Multiply-Strings) | 🟧 Medium | `Java` | 2026-10-10 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `Java` | 2026-10-03 |
 | 50 | [Pow(x, n)](problems/0050-Powx-n) | 🟧 Medium | `Java` | 2026-09-26 |
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `Java` | 2026-09-30 |
