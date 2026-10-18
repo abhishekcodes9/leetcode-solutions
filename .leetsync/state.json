@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792313346230,
+  "updatedAt": 1792313644166,
   "devices": {
     "50e26c13-6c68-4639-aab1-38111ebb7193": {
-      "lastSeen": 1792313344640
+      "lastSeen": 1792313643723
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sorting"
       ],
       "title": "4Sum",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "19": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "20": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "21": {
       "attempts": 1,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "22": {
       "attempts": 1,
@@ -104,7 +104,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "23": {
       "attempts": 1,
@@ -126,7 +126,7 @@
         "Tournament Sort"
       ],
       "title": "Merge k Sorted Lists",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "29": {
       "attempts": 1,
@@ -145,7 +145,7 @@
         "Bit Manipulation"
       ],
       "title": "Divide Two Integers",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "32": {
       "attempts": 1,
@@ -166,7 +166,7 @@
         "Bracket Sequences"
       ],
       "title": "Longest Valid Parentheses",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "34": {
       "attempts": 1,
@@ -185,7 +185,7 @@
         "Binary Search"
       ],
       "title": "Find First and Last Position of Element in Sorted Array",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "43": {
       "attempts": 1,
@@ -205,7 +205,7 @@
         "Simulation"
       ],
       "title": "Multiply Strings",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "46": {
       "attempts": 1,
@@ -224,7 +224,7 @@
         "Backtracking"
       ],
       "title": "Permutations",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "50": {
       "attempts": 1,
@@ -243,7 +243,7 @@
         "Recursion"
       ],
       "title": "Pow(x, n)",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "61": {
       "attempts": 1,
@@ -262,7 +262,7 @@
         "Two Pointers"
       ],
       "title": "Rotate List",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "65": {
       "attempts": 1,
@@ -280,7 +280,7 @@
         "String"
       ],
       "title": "Valid Number",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "66": {
       "attempts": 1,
@@ -299,7 +299,7 @@
         "Math"
       ],
       "title": "Plus One",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "67": {
       "attempts": 1,
@@ -320,7 +320,7 @@
         "Simulation"
       ],
       "title": "Add Binary",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "71": {
       "attempts": 1,
@@ -339,7 +339,7 @@
         "Stack"
       ],
       "title": "Simplify Path",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "79": {
       "attempts": 1,
@@ -361,7 +361,7 @@
         "Matrix"
       ],
       "title": "Word Search",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "89": {
       "attempts": 1,
@@ -381,7 +381,7 @@
         "Bit Manipulation"
       ],
       "title": "Gray Code",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "127": {
       "attempts": 1,
@@ -402,7 +402,7 @@
         "Bidirectional Search"
       ],
       "title": "Word Ladder",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "164": {
       "attempts": 1,
@@ -424,7 +424,7 @@
         "Pigeonhole Principle"
       ],
       "title": "Maximum Gap",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "189": {
       "attempts": 1,
@@ -444,7 +444,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "217": {
       "attempts": 1,
@@ -464,7 +464,26 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1792313344640
+      "at": 1792313643723
+    },
+    "326": {
+      "attempts": 1,
+      "bestMemory": "45.3 MB (Beats 99%)",
+      "bestRuntime": "24 ms (Beats 5%)",
+      "date": "2026-10-18",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-18",
+      "folderName": "0326-Power-of-Three",
+      "language": "Java",
+      "number": 326,
+      "slug": "power-of-three",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "Recursion"
+      ],
+      "title": "Power of Three",
+      "at": 1792313643723
     },
     "357": {
       "attempts": 1,
@@ -484,7 +503,7 @@
         "Backtracking"
       ],
       "title": "Count Numbers with Unique Digits",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "412": {
       "attempts": 1,
@@ -504,7 +523,7 @@
         "Simulation"
       ],
       "title": "Fizz Buzz",
-      "at": 1792313344640
+      "at": 1792313643723
     },
     "507": {
       "attempts": 1,
@@ -522,7 +541,7 @@
         "Math"
       ],
       "title": "Perfect Number",
-      "at": 1792313344640
+      "at": 1792313643723
     }
   },
   "achievements": {
@@ -557,11 +576,12 @@
     "2026-10-11",
     "2026-10-12",
     "2026-10-13",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-18"
   ],
   "bests": {
     "longestStreak": 12,
-    "pushes": 26
+    "pushes": 27
   },
   "identity": {
     "installId": "17b573a3-be24-406a-92a0-ad4ea89a18d9",
