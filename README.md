@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-29%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-8%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-17%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-30%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-9%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-17%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -49,6 +49,7 @@
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `Java` | 2026-09-27 |
 | 79 | [Word Search](problems/0079-Word-Search) | 🟧 Medium | `Java` | 2026-09-27 |
 | 89 | [Gray Code](problems/0089-Gray-Code) | 🟧 Medium | `Java` | 2026-09-29 |
+| 118 | [Pascal's Triangle](problems/0118-Pascals-Triangle) | 🟩 Easy | `Java` | 2026-10-21 |
 | 127 | [Word Ladder](problems/0127-Word-Ladder) | 🟥 Hard | `Java` | 2026-10-02 |
 | 164 | [Maximum Gap](problems/0164-Maximum-Gap) | 🟧 Medium | `Java` | 2026-10-06 |
 | 179 | [Largest Number](problems/0179-Largest-Number) | 🟧 Medium | `Java` | 2026-10-20 |
