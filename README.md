@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-31%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-10%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-17%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-32%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-10%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-18%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -60,6 +60,7 @@
 | 357 | [Count Numbers with Unique Digits](problems/0357-Count-Numbers-with-Unique-Digits) | 🟧 Medium | `Java` | 2026-10-12 |
 | 412 | [Fizz Buzz](problems/0412-Fizz-Buzz) | 🟩 Easy | `Java` | 2026-10-15 |
 | 507 | [Perfect Number](problems/0507-Perfect-Number) | 🟩 Easy | `Java` | 2026-10-13 |
+| 670 | [Maximum Swap](problems/0670-Maximum-Swap) | 🟧 Medium | `Java` | 2026-10-23 |
 
 ---
 
