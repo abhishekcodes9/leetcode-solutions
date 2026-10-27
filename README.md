@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-35%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-11%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-20%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-36%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-11%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-21%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -47,6 +47,7 @@
 | 66 | [Plus One](problems/0066-Plus-One) | 🟩 Easy | `Java` | 2026-10-09 |
 | 67 | [Add Binary](problems/0067-Add-Binary) | 🟩 Easy | `Java` | 2026-10-11 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `Java` | 2026-09-27 |
+| 77 | [Combinations](problems/0077-Combinations) | 🟧 Medium | `Java` | 2026-10-27 |
 | 79 | [Word Search](problems/0079-Word-Search) | 🟧 Medium | `Java` | 2026-09-27 |
 | 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟩 Easy | `Java` | 2026-10-25 |
 | 89 | [Gray Code](problems/0089-Gray-Code) | 🟧 Medium | `Java` | 2026-09-29 |
