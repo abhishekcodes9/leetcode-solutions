@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-40%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-23%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-41%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-24%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -27,16 +27,51 @@
 
 </div>
 
+**Latest 10**
+
+| # | Problem | Difficulty | Language | Date |
+|:---:|:--------|:----------:|:--------:|:----:|
+| 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟧 Medium | `Java` | 2026-11-03 |
+| 120 | [Triangle](problems/0120-Triangle) | 🟧 Medium | `Java` | 2026-11-02 |
+| 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-01 |
+| 64 | [Minimum Path Sum](problems/0064-Minimum-Path-Sum) | 🟧 Medium | `Java` | 2026-10-30 |
+| 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `Java` | 2026-10-28 |
+| 77 | [Combinations](problems/0077-Combinations) | 🟧 Medium | `Java` | 2026-10-27 |
+| 494 | [Target Sum](problems/0494-Target-Sum) | 🟧 Medium | `Java` | 2026-10-26 |
+| 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟩 Easy | `Java` | 2026-10-25 |
+| 204 | [Count Primes](problems/0204-Count-Primes) | 🟧 Medium | `Java` | 2026-10-24 |
+| 670 | [Maximum Swap](problems/0670-Maximum-Swap) | 🟧 Medium | `Java` | 2026-10-23 |
+
+<details>
+<summary><strong>🟩 Easy</strong> — 13 solved</summary>
+
+| # | Problem | Difficulty | Language | Date |
+|:---:|:--------|:----------:|:--------:|:----:|
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-09-24 |
+| 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `Java` | 2026-09-25 |
+| 66 | [Plus One](problems/0066-Plus-One) | 🟩 Easy | `Java` | 2026-10-09 |
+| 67 | [Add Binary](problems/0067-Add-Binary) | 🟩 Easy | `Java` | 2026-10-11 |
+| 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `Java` | 2026-10-28 |
+| 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟩 Easy | `Java` | 2026-10-25 |
+| 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-01 |
+| 118 | [Pascal's Triangle](problems/0118-Pascals-Triangle) | 🟩 Easy | `Java` | 2026-10-21 |
+| 125 | [Valid Palindrome](problems/0125-Valid-Palindrome) | 🟩 Easy | `Java` | 2026-10-22 |
+| 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-10-05 |
+| 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `Java` | 2026-10-18 |
+| 412 | [Fizz Buzz](problems/0412-Fizz-Buzz) | 🟩 Easy | `Java` | 2026-10-15 |
+| 507 | [Perfect Number](problems/0507-Perfect-Number) | 🟩 Easy | `Java` | 2026-10-13 |
+
+</details>
+
+<details>
+<summary><strong>🟧 Medium</strong> — 24 solved</summary>
+
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 18 | [4Sum](problems/0018-4Sum) | 🟧 Medium | `Java` | 2026-09-23 |
 | 19 | [Remove Nth Node From End of List](problems/0019-Remove-Nth-Node-From-End-of-List) | 🟧 Medium | `Java` | 2026-09-23 |
-| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-09-24 |
-| 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `Java` | 2026-09-25 |
 | 22 | [Generate Parentheses](problems/0022-Generate-Parentheses) | 🟧 Medium | `Java` | 2026-09-26 |
-| 23 | [Merge k Sorted Lists](problems/0023-Merge-k-Sorted-Lists) | 🟥 Hard | `Java` | 2026-09-26 |
 | 29 | [Divide Two Integers](problems/0029-Divide-Two-Integers) | 🟧 Medium | `Java` | 2026-09-26 |
-| 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `Java` | 2026-09-28 |
 | 34 | [Find First and Last Position of Element in Sorted Array](problems/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | 🟧 Medium | `Java` | 2026-10-07 |
 | 43 | [Multiply Strings](problems/0043-Multiply-Strings) | 🟧 Medium | `Java` | 2026-10-10 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `Java` | 2026-10-03 |
@@ -44,31 +79,33 @@
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `Java` | 2026-09-30 |
 | 62 | [Unique Paths](problems/0062-Unique-Paths) | 🟧 Medium | `Java` | 2026-10-19 |
 | 64 | [Minimum Path Sum](problems/0064-Minimum-Path-Sum) | 🟧 Medium | `Java` | 2026-10-30 |
-| 65 | [Valid Number](problems/0065-Valid-Number) | 🟥 Hard | `Java` | 2026-10-08 |
-| 66 | [Plus One](problems/0066-Plus-One) | 🟩 Easy | `Java` | 2026-10-09 |
-| 67 | [Add Binary](problems/0067-Add-Binary) | 🟩 Easy | `Java` | 2026-10-11 |
 | 71 | [Simplify Path](problems/0071-Simplify-Path) | 🟧 Medium | `Java` | 2026-09-27 |
+| 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟧 Medium | `Java` | 2026-11-03 |
 | 77 | [Combinations](problems/0077-Combinations) | 🟧 Medium | `Java` | 2026-10-27 |
 | 79 | [Word Search](problems/0079-Word-Search) | 🟧 Medium | `Java` | 2026-09-27 |
-| 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `Java` | 2026-10-28 |
-| 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟩 Easy | `Java` | 2026-10-25 |
 | 89 | [Gray Code](problems/0089-Gray-Code) | 🟧 Medium | `Java` | 2026-09-29 |
-| 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-01 |
-| 118 | [Pascal's Triangle](problems/0118-Pascals-Triangle) | 🟩 Easy | `Java` | 2026-10-21 |
 | 120 | [Triangle](problems/0120-Triangle) | 🟧 Medium | `Java` | 2026-11-02 |
-| 125 | [Valid Palindrome](problems/0125-Valid-Palindrome) | 🟩 Easy | `Java` | 2026-10-22 |
-| 127 | [Word Ladder](problems/0127-Word-Ladder) | 🟥 Hard | `Java` | 2026-10-02 |
 | 164 | [Maximum Gap](problems/0164-Maximum-Gap) | 🟧 Medium | `Java` | 2026-10-06 |
 | 179 | [Largest Number](problems/0179-Largest-Number) | 🟧 Medium | `Java` | 2026-10-20 |
 | 189 | [Rotate Array](problems/0189-Rotate-Array) | 🟧 Medium | `Java` | 2026-10-04 |
 | 204 | [Count Primes](problems/0204-Count-Primes) | 🟧 Medium | `Java` | 2026-10-24 |
-| 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-10-05 |
-| 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `Java` | 2026-10-18 |
 | 357 | [Count Numbers with Unique Digits](problems/0357-Count-Numbers-with-Unique-Digits) | 🟧 Medium | `Java` | 2026-10-12 |
-| 412 | [Fizz Buzz](problems/0412-Fizz-Buzz) | 🟩 Easy | `Java` | 2026-10-15 |
 | 494 | [Target Sum](problems/0494-Target-Sum) | 🟧 Medium | `Java` | 2026-10-26 |
-| 507 | [Perfect Number](problems/0507-Perfect-Number) | 🟩 Easy | `Java` | 2026-10-13 |
 | 670 | [Maximum Swap](problems/0670-Maximum-Swap) | 🟧 Medium | `Java` | 2026-10-23 |
+
+</details>
+
+<details>
+<summary><strong>🟥 Hard</strong> — 4 solved</summary>
+
+| # | Problem | Difficulty | Language | Date |
+|:---:|:--------|:----------:|:--------:|:----:|
+| 23 | [Merge k Sorted Lists](problems/0023-Merge-k-Sorted-Lists) | 🟥 Hard | `Java` | 2026-09-26 |
+| 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `Java` | 2026-09-28 |
+| 65 | [Valid Number](problems/0065-Valid-Number) | 🟥 Hard | `Java` | 2026-10-08 |
+| 127 | [Word Ladder](problems/0127-Word-Ladder) | 🟥 Hard | `Java` | 2026-10-02 |
+
+</details>
 
 ---
 
