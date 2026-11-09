@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-41%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-24%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-42%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-24%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 87 | [Scramble String](problems/0087-Scramble-String) | 🟥 Hard | `Java` | 2026-11-09 |
 | 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟧 Medium | `Java` | 2026-11-03 |
 | 120 | [Triangle](problems/0120-Triangle) | 🟧 Medium | `Java` | 2026-11-02 |
 | 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-01 |
@@ -40,7 +41,6 @@
 | 494 | [Target Sum](problems/0494-Target-Sum) | 🟧 Medium | `Java` | 2026-10-26 |
 | 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟩 Easy | `Java` | 2026-10-25 |
 | 204 | [Count Primes](problems/0204-Count-Primes) | 🟧 Medium | `Java` | 2026-10-24 |
-| 670 | [Maximum Swap](problems/0670-Maximum-Swap) | 🟧 Medium | `Java` | 2026-10-23 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 13 solved</summary>
@@ -96,13 +96,14 @@
 </details>
 
 <details>
-<summary><strong>🟥 Hard</strong> — 4 solved</summary>
+<summary><strong>🟥 Hard</strong> — 5 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 23 | [Merge k Sorted Lists](problems/0023-Merge-k-Sorted-Lists) | 🟥 Hard | `Java` | 2026-09-26 |
 | 32 | [Longest Valid Parentheses](problems/0032-Longest-Valid-Parentheses) | 🟥 Hard | `Java` | 2026-09-28 |
 | 65 | [Valid Number](problems/0065-Valid-Number) | 🟥 Hard | `Java` | 2026-10-08 |
+| 87 | [Scramble String](problems/0087-Scramble-String) | 🟥 Hard | `Java` | 2026-11-09 |
 | 127 | [Word Ladder](problems/0127-Word-Ladder) | 🟥 Hard | `Java` | 2026-10-02 |
 
 </details>
