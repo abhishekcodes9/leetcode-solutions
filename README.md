@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-42%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-24%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-43%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-25%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 47 | [Permutations II](problems/0047-Permutations-II) | 🟧 Medium | `Java` | 2026-11-13 |
 | 87 | [Scramble String](problems/0087-Scramble-String) | 🟥 Hard | `Java` | 2026-11-09 |
 | 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟧 Medium | `Java` | 2026-11-03 |
 | 120 | [Triangle](problems/0120-Triangle) | 🟧 Medium | `Java` | 2026-11-02 |
@@ -40,7 +41,6 @@
 | 77 | [Combinations](problems/0077-Combinations) | 🟧 Medium | `Java` | 2026-10-27 |
 | 494 | [Target Sum](problems/0494-Target-Sum) | 🟧 Medium | `Java` | 2026-10-26 |
 | 88 | [Merge Sorted Array](problems/0088-Merge-Sorted-Array) | 🟩 Easy | `Java` | 2026-10-25 |
-| 204 | [Count Primes](problems/0204-Count-Primes) | 🟧 Medium | `Java` | 2026-10-24 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 13 solved</summary>
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 24 solved</summary>
+<summary><strong>🟧 Medium</strong> — 25 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -75,6 +75,7 @@
 | 34 | [Find First and Last Position of Element in Sorted Array](problems/0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array) | 🟧 Medium | `Java` | 2026-10-07 |
 | 43 | [Multiply Strings](problems/0043-Multiply-Strings) | 🟧 Medium | `Java` | 2026-10-10 |
 | 46 | [Permutations](problems/0046-Permutations) | 🟧 Medium | `Java` | 2026-10-03 |
+| 47 | [Permutations II](problems/0047-Permutations-II) | 🟧 Medium | `Java` | 2026-11-13 |
 | 50 | [Pow(x, n)](problems/0050-Powx-n) | 🟧 Medium | `Java` | 2026-09-26 |
 | 61 | [Rotate List](problems/0061-Rotate-List) | 🟧 Medium | `Java` | 2026-09-30 |
 | 62 | [Unique Paths](problems/0062-Unique-Paths) | 🟧 Medium | `Java` | 2026-10-19 |
