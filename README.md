@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
 | 754 | [Reach a Number](problems/0754-Reach-a-Number) | 🟧 Medium | `Java` | 2026-11-15 |
 | 47 | [Permutations II](problems/0047-Permutations-II) | 🟧 Medium | `Java` | 2026-11-13 |
 | 87 | [Scramble String](problems/0087-Scramble-String) | 🟥 Hard | `Java` | 2026-11-09 |
@@ -40,14 +41,13 @@
 | 64 | [Minimum Path Sum](problems/0064-Minimum-Path-Sum) | 🟧 Medium | `Java` | 2026-10-30 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `Java` | 2026-10-28 |
 | 77 | [Combinations](problems/0077-Combinations) | 🟧 Medium | `Java` | 2026-10-27 |
-| 494 | [Target Sum](problems/0494-Target-Sum) | 🟧 Medium | `Java` | 2026-10-26 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 13 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-09-24 |
+| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
 | 21 | [Merge Two Sorted Lists](problems/0021-Merge-Two-Sorted-Lists) | 🟩 Easy | `Java` | 2026-09-25 |
 | 66 | [Plus One](problems/0066-Plus-One) | 🟩 Easy | `Java` | 2026-10-09 |
 | 67 | [Add Binary](problems/0067-Add-Binary) | 🟩 Easy | `Java` | 2026-10-11 |
