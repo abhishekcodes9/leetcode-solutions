@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-47%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-15%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-48%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -33,6 +33,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2390 | [Removing Stars From a String](problems/2390-Removing-Stars-From-a-String) | 🟧 Medium | `Java` | 2026-11-18 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-18 |
+| 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `Java` | 2026-11-18 |
 | 844 | [Backspace String Compare](problems/0844-Backspace-String-Compare) | 🟩 Easy | `Java` | 2026-11-18 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
 | 754 | [Reach a Number](problems/0754-Reach-a-Number) | 🟧 Medium | `Java` | 2026-11-15 |
@@ -40,10 +41,9 @@
 | 87 | [Scramble String](problems/0087-Scramble-String) | 🟥 Hard | `Java` | 2026-11-09 |
 | 75 | [Sort Colors](problems/0075-Sort-Colors) | 🟧 Medium | `Java` | 2026-11-03 |
 | 120 | [Triangle](problems/0120-Triangle) | 🟧 Medium | `Java` | 2026-11-02 |
-| 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-01 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 15 solved</summary>
+<summary><strong>🟩 Easy</strong> — 16 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -61,6 +61,7 @@
 | 412 | [Fizz Buzz](problems/0412-Fizz-Buzz) | 🟩 Easy | `Java` | 2026-10-15 |
 | 507 | [Perfect Number](problems/0507-Perfect-Number) | 🟩 Easy | `Java` | 2026-10-13 |
 | 844 | [Backspace String Compare](problems/0844-Backspace-String-Compare) | 🟩 Easy | `Java` | 2026-11-18 |
+| 1021 | [Remove Outermost Parentheses](problems/1021-Remove-Outermost-Parentheses) | 🟩 Easy | `Java` | 2026-11-18 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-18 |
 
 </details>
