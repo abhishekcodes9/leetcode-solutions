@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-44%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-13%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-26%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-14%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-26%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 844 | [Backspace String Compare](problems/0844-Backspace-String-Compare) | 🟩 Easy | `Java` | 2026-11-18 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
 | 754 | [Reach a Number](problems/0754-Reach-a-Number) | 🟧 Medium | `Java` | 2026-11-15 |
 | 47 | [Permutations II](problems/0047-Permutations-II) | 🟧 Medium | `Java` | 2026-11-13 |
@@ -40,10 +41,9 @@
 | 112 | [Path Sum](problems/0112-Path-Sum) | 🟩 Easy | `Java` | 2026-11-01 |
 | 64 | [Minimum Path Sum](problems/0064-Minimum-Path-Sum) | 🟧 Medium | `Java` | 2026-10-30 |
 | 83 | [Remove Duplicates from Sorted List](problems/0083-Remove-Duplicates-from-Sorted-List) | 🟩 Easy | `Java` | 2026-10-28 |
-| 77 | [Combinations](problems/0077-Combinations) | 🟧 Medium | `Java` | 2026-10-27 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 13 solved</summary>
+<summary><strong>🟩 Easy</strong> — 14 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -60,6 +60,7 @@
 | 326 | [Power of Three](problems/0326-Power-of-Three) | 🟩 Easy | `Java` | 2026-10-18 |
 | 412 | [Fizz Buzz](problems/0412-Fizz-Buzz) | 🟩 Easy | `Java` | 2026-10-15 |
 | 507 | [Perfect Number](problems/0507-Perfect-Number) | 🟩 Easy | `Java` | 2026-10-13 |
+| 844 | [Backspace String Compare](problems/0844-Backspace-String-Compare) | 🟩 Easy | `Java` | 2026-11-18 |
 
 </details>
 
