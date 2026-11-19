@@ -121,3 +121,15 @@
 <sub>Auto-synced by <strong>LeetSync</strong> · Built by <a href="https://deveshsamant.in/">Devesh Samant</a></sub>
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+<!---LeetCode Topics End-->
