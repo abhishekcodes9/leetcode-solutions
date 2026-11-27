@@ -131,6 +131,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0739-daily-temperatures](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Array
@@ -146,4 +147,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhishekcodes9/leetcode-solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
